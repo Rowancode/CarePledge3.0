@@ -1,0 +1,52 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3261996, 2016-08-04T16:24:55-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Celias-Bold by Type Dynamic
+ * URL: http://www.myfonts.com/fonts/typedynamic/celias/bold/
+ * 
+ * Webfont: Celias-Hairline by Type Dynamic
+ * URL: http://www.myfonts.com/fonts/typedynamic/celias/hairline/
+ * 
+ * Webfont: Celias-Light by Type Dynamic
+ * URL: http://www.myfonts.com/fonts/typedynamic/celias/light/
+ * 
+ * Webfont: Celias-Medium by Type Dynamic
+ * URL: http://www.myfonts.com/fonts/typedynamic/celias/medium/
+ * 
+ * Webfont: Celias-Regular by Type Dynamic
+ * URL: http://www.myfonts.com/fonts/typedynamic/celias/regular/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3261996
+ * Licensed pageviews: 100,000
+ * Webfonts copyright: Copyright &#x00A9; 2013 by Type Dynamic. All rights reserved.
+ * 
+ * © 2016 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("http://hello.myfonts.net/count/31c62c");
+
+  
+@font-face {font-family: 'Celias-Bold';src: url('webfonts/31C62C_0_0.eot');src: url('webfonts/31C62C_0_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/31C62C_0_0.woff2') format('woff2'),url('webfonts/31C62C_0_0.woff') format('woff'),url('webfonts/31C62C_0_0.ttf') format('truetype'),url('webfonts/31C62C_0_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Celias-Hairline';src: url('webfonts/31C62C_1_0.eot');src: url('webfonts/31C62C_1_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/31C62C_1_0.woff2') format('woff2'),url('webfonts/31C62C_1_0.woff') format('woff'),url('webfonts/31C62C_1_0.ttf') format('truetype'),url('webfonts/31C62C_1_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Celias-Light';src: url('webfonts/31C62C_2_0.eot');src: url('webfonts/31C62C_2_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/31C62C_2_0.woff2') format('woff2'),url('webfonts/31C62C_2_0.woff') format('woff'),url('webfonts/31C62C_2_0.ttf') format('truetype'),url('webfonts/31C62C_2_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Celias-Medium';src: url('webfonts/31C62C_3_0.eot');src: url('webfonts/31C62C_3_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/31C62C_3_0.woff2') format('woff2'),url('webfonts/31C62C_3_0.woff') format('woff'),url('webfonts/31C62C_3_0.ttf') format('truetype'),url('webfonts/31C62C_3_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Celias-Regular';src: url('webfonts/31C62C_4_0.eot');src: url('webfonts/31C62C_4_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/31C62C_4_0.woff2') format('woff2'),url('webfonts/31C62C_4_0.woff') format('woff'),url('webfonts/31C62C_4_0.ttf') format('truetype'),url('webfonts/31C62C_4_0.svg#wf') format('svg');}
+ 
